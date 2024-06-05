@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">MentorConnect</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="code">Code</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log In</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="input_username">Input username</string>
+    <string name="input_password">Input password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="didn_t_have_an_account_sign_up">Didn\'t have an account? Sign Up</string>
 </resources>

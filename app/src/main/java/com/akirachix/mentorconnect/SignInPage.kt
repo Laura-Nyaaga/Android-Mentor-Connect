@@ -9,16 +9,14 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
-class MainActivity : AppCompatActivity() {
+class SignInPage : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-
-        val textView3 = findViewById<TextView>(R.id.textView3)
-        textView3.setOnClickListener {
-            val intent = Intent( this, SignInPage::class.java)
+        setContentView(R.layout.activity_sign_in_page)
+        val textView4 = findViewById<TextView>(R.id.textView4)
+        textView4.setOnClickListener {
+            val intent = Intent( this, MainActivity::class.java)
             startActivity(intent)
         }
-
     }
 }
