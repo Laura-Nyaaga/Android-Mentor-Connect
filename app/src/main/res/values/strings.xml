@@ -15,4 +15,14 @@
     <string name="input_password">Input password</string>
     <string name="sign_in">Sign In</string>
     <string name="didn_t_have_an_account_sign_up">Didn\'t have an account? Sign Up</string>
+    <string name="first_name_is_required">First name is required</string>
+    <string name="last_name_is_required">Last name is required</string>
+    <string name="email_is_required">Email is required</string>
+    <string name="codehive_id_is_required">Codehive Id  is required</string>
+    <string name="username_is_required">Username is required</string>
+    <string name="password_is_required">Password is required</string>
+    <string name="password_confirmation_is_required">Password confirmation is required</string>
+    <string name="password_and_confirmation_do_not_match">Password and Confirmation do not match</string>
+    <string name="username_required">Username Required</string>
+    <string name="password_required">Password required</string>
 </resources>
